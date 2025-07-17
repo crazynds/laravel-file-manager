@@ -1,5 +1,5 @@
 {
-    "name": "alexusmai/laravel-file-manager",
+    "name": "crazynds/laravel-file-manager",
     "description": "File manager for Laravel",
     "keywords": [
         "laravel",
@@ -11,9 +11,13 @@
             "name": "Aleksandr Manekin",
             "email": "alexusmai@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name:": "Crazynds",
+            "role": "Developer
         }
     ],
-    "homepage": "https://github.com/alexusami/laravel-file-manager",
+    "homepage": "https://github.com/crazynds/laravel-file-manager",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
